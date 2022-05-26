@@ -5,11 +5,13 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
 ---
 
 ### :woman_technologist: About Me :
-Born as a Biologist, I turned to the dark side and beacme a Bioinformatician  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-I'm currently working for the European Commission Joint Research Centre of Ispra (VA), Italy.
+Born as a Biologist, I went to the dark side by becoming a Bioinformatician  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+
+I'm currently working at the European Commission Joint Research Centre of Ispra (VA), Italy.
 
 - :telescope: I’m interested in Genomics and Biology.
 
