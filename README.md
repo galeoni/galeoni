@@ -8,15 +8,14 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Bioinformatician  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Italy.
+Born as a Biologist, I turned to the dark side and beacme a Bioinformatician  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I'm currently working for the European Commission Joint Research Centre of Ispra (VA), Italy.
 
 - :telescope: I’m interested in Genomics and Biology.
 
-- :seedling:
+- 🔵⚫ Inter FC supporter ⚽
 
-- :zap: 
-
-- :mailbox:How to reach me: 
+- :mailbox: How to reach me: gabriele.leoni@gmail.com
 
 ---
 
@@ -30,6 +29,15 @@ I am a Bioinformatician  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+---
+
+### ℹ️ Work Topics and tools:
+
+- 🌽 Mobile elements (GenomeFinder, soon here)
+- 🧬 Genomic Variants
+- 🧠 Neurodegenerative disorders
+- ☠️ SARS-CoV-2 (SARS-Chi, soon here; ChimeraGen, soon here)
 
 ---
 
