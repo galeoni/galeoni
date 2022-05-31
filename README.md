@@ -17,7 +17,7 @@ I'm currently working at the European Commission Joint Research Centre of Ispra 
 
 - 🔵⚫ Inter FC supporter ⚽
 
-- :mailbox: How to reach me: gabriele.leoni@gmail.com
+- :mailbox: How to reach me: gabriele.eros.leoni@gmail.com
 
 ---
 
