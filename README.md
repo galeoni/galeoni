@@ -36,10 +36,13 @@ I'm currently working at the European Commission Joint Research Centre of Ispra 
 
 ### ℹ️ Work Topics and tools:
 
-- 🌽 Mobile elements (GenomeFinder, soon here)
+- 🌽 **Mobile elements**
+  - *GenomeFinder*: A tool to detect genomics insertions due to mobile elements from raw reads sequencing data (soon here)
 - 🧬 Genomic Variants
 - 🧠 Neurodegenerative disorders
-- ☠️ SARS-CoV-2 (SARS-Chi, soon here; ChimeraGen, soon here)
+- ☠️ **SARS-CoV-2**
+  - *SARS-Chi*: A tool to discrimiate bewteen pure SARS-CoV-2 lineage and mixtures from raw reads sequencing data (soon here)
+  - *ChimeraGen*: A tool to generate chimeric sequences from different strain belonging to the same specie (soon here)
 
 ---
 
