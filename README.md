@@ -41,7 +41,7 @@ I'm currently working at the European Commission Joint Research Centre of Ispra 
 - 🧬 Genomic Variants
 - 🧠 Neurodegenerative disorders
 - ☠️ **SARS-CoV-2**
-  - *SARS-Chi*: A tool to discrimiate bewteen pure SARS-CoV-2 lineage and mixtures from raw reads sequencing data (soon here)
+  - [*PathoSeq-QC*](https://code.europa.eu/dighealth/pathoseq-qc/-/tree/main): A tool to discrimiate bewteen novel, recombinant and already known SARS-CoV-2 lineage taking into account raw data quality, robust variant calling and genomic homogeneity.
   - *ChimeraGen*: A tool to generate chimeric sequences from different strain belonging to the same specie (soon here)
 
 ---
